@@ -12,9 +12,7 @@ function HomePage() {
           <a href="https://docs.google.com/document/d/1bu3Edfo3PFMoyoxqpBcEFlKnUpsrsd2BectDYir3vgM/edit">CV Linki</a>
         </div>
       </div>
-      <div className="site-4xl-container mt-20">
-        <img src="/albatros.jpg"></img>
-      </div>
+      
     </>
   )
 }
