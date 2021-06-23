@@ -8,7 +8,7 @@ function HomePage() {
           <p>Front-End teknolojileri ile ilgileniyorum.<br> Fmv Işık Üniversitesi Görsel İletişim Tasarımı mezunuyum. </p>
 
           <p>Uzun zamandır soyut ve somut tasarım çıktılarının olduğu işler yapmaktayım. Serigrafi, Litografi gibi baskı teknikleri ile boş zamanlarımda hobi amaçlı, ihtiyacım olduğu zamanlarda ticari olarak ürünler ortaya çıkartıyorum. Geleneksel tasarımın dışında web, web tipografisi ve kullanıcı arayüzü tasarımı alanlarıyla ilgileniyorum.</p>
-          <br>br>
+          <br><br>
           <a href="https://docs.google.com/document/d/1bu3Edfo3PFMoyoxqpBcEFlKnUpsrsd2BectDYir3vgM/edit">CV Linki</a>
         </div>
       </div>
